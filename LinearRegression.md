@@ -104,7 +104,7 @@ plt.scatter(data.Height,data.Weight)
 
 
 
-![png](output_7_1.png)
+
 
 
 
@@ -142,7 +142,7 @@ plt.scatter(dataSampled.Height,dataSampled.Weight)
 
 
 
-![png](output_13_1.png)
+
 
 
 <li>y = weight 
@@ -181,7 +181,7 @@ plt.scatter(x,y)
 
 
 
-![png](output_18_1.png)
+
 
 
 <li>intercept            => b 
@@ -252,7 +252,7 @@ plt.title("Gradient Descent")
 
 
 
-![png](output_24_1.png)
+
 
 
 
@@ -275,7 +275,7 @@ plt.ylabel("Y")
 
 
 
-![png](output_25_1.png)
+
 
 
 
